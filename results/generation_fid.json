@@ -1,0 +1,85 @@
+{
+  "n_images": 200,
+  "blur": [
+    {
+      "sigma": 0,
+      "fid": 25.6,
+      "kid_x1000": -0.98,
+      "precision": 0.965,
+      "recall": 0.91
+    },
+    {
+      "sigma": 1,
+      "fid": 54.6,
+      "kid_x1000": 8.69,
+      "precision": 0.305,
+      "recall": 0.31
+    },
+    {
+      "sigma": 2,
+      "fid": 119.6,
+      "kid_x1000": 35.58,
+      "precision": 0.015,
+      "recall": 0.05
+    },
+    {
+      "sigma": 4,
+      "fid": 197.3,
+      "kid_x1000": 70.72,
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  ],
+  "noise": [
+    {
+      "sigma": 0,
+      "fid": 25.6,
+      "kid_x1000": -0.98,
+      "precision": 0.965,
+      "recall": 0.91
+    },
+    {
+      "sigma": 15,
+      "fid": 78.2,
+      "kid_x1000": 18.05,
+      "precision": 0.16,
+      "recall": 0.235
+    },
+    {
+      "sigma": 30,
+      "fid": 137.4,
+      "kid_x1000": 45.7,
+      "precision": 0.015,
+      "recall": 0.025
+    },
+    {
+      "sigma": 60,
+      "fid": 253.9,
+      "kid_x1000": 119.87,
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  ],
+  "sample_size": [
+    {
+      "n": 25,
+      "fid": 81.8,
+      "kid_x1000": -9.31
+    },
+    {
+      "n": 50,
+      "fid": 63.5,
+      "kid_x1000": -3.54
+    },
+    {
+      "n": 100,
+      "fid": 39.9,
+      "kid_x1000": -1.03
+    },
+    {
+      "n": 200,
+      "fid": 25.6,
+      "kid_x1000": -0.98
+    }
+  ]
+}
