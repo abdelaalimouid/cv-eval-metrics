@@ -1,0 +1,15 @@
+{
+  "precision_without_outliers": 0.5,
+  "precision_with_3_real_outliers": 1.0,
+  "elo": {
+    "start": [
+      1000,
+      1000
+    ],
+    "expected_A": 0.5,
+    "after_A_wins": [
+      1016.0,
+      984.0
+    ]
+  }
+}

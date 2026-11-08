@@ -1,0 +1,17 @@
+{
+  "horse_grey.jpg": {
+    "a horse grazing in a meadow": 0.7975,
+    "a red bus on a city street": 0.3136,
+    "the horse is eating the grass": 0.7698,
+    "the grass is eating the horse": 0.7888
+  },
+  "dogs_beach.jpg": {
+    "two dogs playing on a beach": 0.8149,
+    "three dogs playing on a beach": 0.8102,
+    "one dog playing on a beach": 0.7463
+  },
+  "school_bus.jpg": {
+    "a yellow school bus": 0.8118,
+    "a blue school bus": 0.8348
+  }
+}
