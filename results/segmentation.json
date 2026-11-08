@@ -1,0 +1,21 @@
+{
+  "bus_pixel_share": 0.147,
+  "dilated": {
+    "pixel_accuracy": 0.988,
+    "iou_bus": 0.922,
+    "dice_bus": 0.959,
+    "miou": 0.954
+  },
+  "shifted": {
+    "pixel_accuracy": 0.956,
+    "iou_bus": 0.741,
+    "dice_bus": 0.851,
+    "miou": 0.845
+  },
+  "empty": {
+    "pixel_accuracy": 0.853,
+    "iou_bus": 0.0,
+    "dice_bus": 0.0,
+    "miou": 0.426
+  }
+}
